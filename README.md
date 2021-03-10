@@ -10,7 +10,8 @@
 
 
 ### Database script  
-The database script contains tables, sample data and a user role can be [found here](https://github.com/RasmusLynge/DB_Assignment_1/blob/main/SCRIPT.sql).  
+The database script contains tables, sample data and a user role  
+[The script can be found here](https://github.com/RasmusLynge/DB_Assignment_1/blob/main/SCRIPT.sql)  
 
 The user created with the script:  
 - username: bruger  
