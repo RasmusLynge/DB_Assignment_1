@@ -2,6 +2,10 @@
 *Mathias, Magnus og Rasmus*
 
 
+## ER diagram: 
+![Diagram picture](https://github.com/RasmusLynge/DB_Assignment_1/blob/main/ER_diagram.png)
+
+
 ## Implementation  
 The code part of the assignment is written purely for proof of concept - therefore everything is written statically in a main class.  It is a simple maven project, containing only the necessary JDBC dependency. Consequently it should be relatively easy to run it against a local Postgres database. 
 The `insertPet()`method makes use of the `insert_pet` procedure from the sql script, and the `printAllPets()` uses the view "PETS". The SQL script is reentrant and it includes insertion of sample data matching the specifications in the assignment.  
@@ -23,10 +27,6 @@ The user created with the script:
 - password: bruger  
   
 You might have to change the schema (line 222) if you run the script elsewhere.  
-
-
-## ER diagram: 
-![Diagram picture](https://github.com/RasmusLynge/DB_Assignment_1/blob/main/ER_diagram.png)
 
 
 ## Inheritance strategy  
