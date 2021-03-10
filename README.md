@@ -21,7 +21,7 @@ You might have to change the schema (line 222) if you run the script elsewhere.
 
 ## Java program  
 Clone this project to run the java program.
-You might have to change the credentials to run the script on your database. (line 22 and 53 in main java class)
+You might have to change the credentials to run the script on your database. (line 22 and 53 in [main java class](https://github.com/RasmusLynge/DB_Assignment_1/blob/main/src/main/java/Main.java))
 
 
 
