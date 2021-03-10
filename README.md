@@ -26,7 +26,7 @@ The user created with the script:
 - username: bruger  
 - password: bruger  
   
-You might have to change the schema (line 222) if you run the script elsewhere.  
+You might have to change the schema (line 222) if you run the script from another schema than 'public'.  
 
 
 ## Inheritance strategy  
