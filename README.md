@@ -10,14 +10,15 @@
 Pros:  
 -  Follows Data Normalization
 Cons:
-- 
+- Runtime updates (the update of one table will lock other tables - can be slow)
 
 
 #### Table-per-class strategy  
 Pros:  
--  insert, delete, update is simple.
+-  insert, delete, update is simple. (only working on one table)
 Cons:
--  New table for each animal type.
+- New table for each animal type.
+- polymorphism from object oriented programming does not work well with this strategy.
 
 
 #### Single-table strategy  
