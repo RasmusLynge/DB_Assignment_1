@@ -1,5 +1,5 @@
 # DB_Assignment_1
-
+*Mathias, Magnus og Rasmus*
 
 ### ER diagram: 
 ![Diagram picture](https://github.com/RasmusLynge/DB_Assignment_1/blob/main/ER_diagram.png)
